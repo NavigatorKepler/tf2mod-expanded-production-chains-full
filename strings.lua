@@ -187,7 +187,6 @@ return {
 		["Fruit juice"] = "果汁",
 		["Fruit juice factory"] = "果汁厂",
 		["Fruit juice packaging plant"] = "果汁分装厂",
-		
 	}
 }
 end
