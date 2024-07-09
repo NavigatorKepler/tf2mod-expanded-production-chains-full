@@ -156,7 +156,7 @@ return {
 		["Bauxite"] = "铝土矿",
 		["Aluminum"] = "铝材",
 		["Copper ore"] = "铜矿",
-		["Copper"] = "铜",
+		["Copper"] = "铜材",
 		["Bauxite mine"] = "铝土矿场",
 		["Aluminum mill"] = "铝土矿冶炼厂",
 		["Copper ore mine"] = "铜矿场",
